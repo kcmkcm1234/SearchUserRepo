@@ -9,7 +9,9 @@ namespace IDOBusTech.NET.TechTest.Controllers
     using System.Web.Mvc;
     using NETTech.Test.Mapper;
     using NETTech.Test.ViewModel;
+    using Filter;
 
+    [ErrorFilter]
     public class RepoController : Controller
     {
         private readonly IIDOBusHttpClient _iDOBusHttpClient;
