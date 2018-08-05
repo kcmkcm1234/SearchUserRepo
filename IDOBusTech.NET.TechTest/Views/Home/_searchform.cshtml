@@ -1,0 +1,25 @@
+﻿@model IDOBusTech.NETTech.Test.ViewModel.RequestModel
+
+<div class="row">
+    <div class="col-md-4">
+
+    </div>
+    <div class="col-md-4">
+
+        <form action="@Url.Action("Search","Home")" method="post">
+
+            <div class="form-group">
+                <label for="pwd">UserName:</label>          
+                @Html.TextBoxFor(m => m.UserName, new { id = "UserName", @class= "form-control", maxlength = "50", placeholder = "", required = "" })
+                @Html.ValidationMessageFor(x => x.UserName, "", new { @class = "text-danger" })
+            </div>
+            <button type="submit" class="btn btn-default">Submit</button>
+        </form>
+
+    </div>
+
+    <div class="col-md-4">
+
+    </div>
+
+</div>

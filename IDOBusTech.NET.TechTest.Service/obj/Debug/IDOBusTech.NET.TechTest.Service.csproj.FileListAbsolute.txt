@@ -1,0 +1,7 @@
+C:\Users\Bella\Desktop\IDO-BusTech-NET-Tech-Test\IDOBusTech.NET.TechTest\IDOBusTech.NET.TechTest.Service\bin\Debug\IDOBusTech.NETTech.Test.Service.dll
+C:\Users\Bella\Desktop\IDO-BusTech-NET-Tech-Test\IDOBusTech.NET.TechTest\IDOBusTech.NET.TechTest.Service\bin\Debug\IDOBusTech.NETTech.Test.Service.pdb
+C:\Users\Bella\Desktop\IDO-BusTech-NET-Tech-Test\IDOBusTech.NET.TechTest\IDOBusTech.NET.TechTest.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bella\Desktop\IDO-BusTech-NET-Tech-Test\IDOBusTech.NET.TechTest\IDOBusTech.NET.TechTest.Service\bin\Debug\StructureMap.dll
+C:\Users\Bella\Desktop\IDO-BusTech-NET-Tech-Test\IDOBusTech.NET.TechTest\IDOBusTech.NET.TechTest.Service\bin\Debug\StructureMap.xml
+C:\Users\Bella\Desktop\IDO-BusTech-NET-Tech-Test\IDOBusTech.NET.TechTest\IDOBusTech.NET.TechTest.Service\obj\Debug\IDOBusTech.NETTech.Test.Service.dll
+C:\Users\Bella\Desktop\IDO-BusTech-NET-Tech-Test\IDOBusTech.NET.TechTest\IDOBusTech.NET.TechTest.Service\obj\Debug\IDOBusTech.NETTech.Test.Service.pdb

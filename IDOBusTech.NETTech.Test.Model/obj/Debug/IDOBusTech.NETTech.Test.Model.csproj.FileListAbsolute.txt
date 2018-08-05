@@ -1,0 +1,5 @@
+C:\Users\Bella\Desktop\IDO-BusTech-NET-Tech-Test\IDOBusTech.NET.TechTest\IDOBusTech.NETTech.Test.Model\bin\Debug\IDOBusTech.NETTech.Test.Model.dll
+C:\Users\Bella\Desktop\IDO-BusTech-NET-Tech-Test\IDOBusTech.NET.TechTest\IDOBusTech.NETTech.Test.Model\bin\Debug\IDOBusTech.NETTech.Test.Model.pdb
+C:\Users\Bella\Desktop\IDO-BusTech-NET-Tech-Test\IDOBusTech.NET.TechTest\IDOBusTech.NETTech.Test.Model\obj\Debug\IDOBusTech.NETTech.Test.Model.dll
+C:\Users\Bella\Desktop\IDO-BusTech-NET-Tech-Test\IDOBusTech.NET.TechTest\IDOBusTech.NETTech.Test.Model\obj\Debug\IDOBusTech.NETTech.Test.Model.pdb
+C:\Users\Bella\Desktop\IDO-BusTech-NET-Tech-Test\IDOBusTech.NET.TechTest\IDOBusTech.NETTech.Test.Model\bin\Debug\Newtonsoft.Json.dll
